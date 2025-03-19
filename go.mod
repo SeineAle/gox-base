@@ -30,7 +30,7 @@ require (
 	gopkg.in/yaml.v3 v3.0.1
 )
 
-replace(
+replace (
 	github.com/go-redis/redis_rate/v9 => github.com/go-redis/redis_rate/v10 v10.0.1
 	github.com/go-redis/redis/v8 => github.com/redis/go-redis/v9 v9.0.2
 )
